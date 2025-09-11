@@ -3,6 +3,6 @@ Group Assignment 1 for MCDA 5510
 
 
 Group Members:
-Student 1: Miguel
-Student 2: Bhavik
-Student 3: Mushfiq
+Student 1: Miguel <br>
+Student 2: Bhavik <br>
+Student 3: Mushfiq <br>
