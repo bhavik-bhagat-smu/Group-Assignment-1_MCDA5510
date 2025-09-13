@@ -11,6 +11,6 @@ Public int mod (int a, int b) {
 
 
 #A00487441
-Public int addition (int a, int b) {
+Public int min (int a, int b) {
 return Math.min(a,b);
 }

@@ -11,6 +11,6 @@ Public int subtraction (int a, int b) {
 
 
 #A00487441
-Public int addition (int a, int b) {
+Public int Multiplication (int a, int b) {
 return a*b;
 }
