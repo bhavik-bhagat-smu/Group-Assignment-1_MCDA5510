@@ -1,5 +1,19 @@
-#A00494758
+#A00494183
+public int max(int a, int b) {
+	if (a > b) {
+		return a;
+	} else {
+		return b;
+	}
+}
 
+#A00494758
 Public int avg (int a, int b) {
     return Math.avg(a, b);
+}
+
+
+#A00487441
+Public int addition (int a, int b) {
+return Math.pow(a,b);
 }

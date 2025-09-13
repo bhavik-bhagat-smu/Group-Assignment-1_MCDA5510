@@ -1,5 +1,16 @@
-#A00494758
+#A00494183
+public int addition (int a, int b) {
+	return a+b;
+}
 
+
+#A00494758
 Public int subtraction (int a, int b) {
     return a - b;
+}
+
+
+#A00487441
+Public int addition (int a, int b) {
+return a*b;
 }
