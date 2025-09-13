@@ -1,6 +1,12 @@
+
 #A00494183
 
 public int addition (int a, int b) {
 	return a+b;
+}
+
+#A00487441
+Public int addition (int a, int b) {
+return a*b;
 }
 

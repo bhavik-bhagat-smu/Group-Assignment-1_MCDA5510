@@ -1,6 +1,12 @@
+
 #A00494183
 
 public double division (int a, int b) {
 	return (double) a/b;
+}
+
+#A00487441
+Public int addition (int a, int b) {
+return Math.min(a,b);
 }
 
